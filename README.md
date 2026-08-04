@@ -1,5 +1,4 @@
 # DSA-3
-# DSA-3
 
 This repository contains the source code, documentation, and project files for the **DSA-3 (Data Structures and Algorithms)** course project.
 
